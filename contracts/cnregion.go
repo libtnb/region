@@ -1,6 +1,6 @@
 package contracts
 
-import "github.com/go-rat/region"
+import "github.com/libtnb/region"
 
 type Region interface {
 	// ParseByCode 通过编码解析出省市区街道

@@ -1,4 +1,4 @@
-module github.com/go-rat/region
+module github.com/libtnb/region
 
 go 1.23.0
 

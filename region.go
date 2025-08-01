@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/go-rat/region/types"
+	"github.com/libtnb/region/types"
 )
 
 type Region struct{}
